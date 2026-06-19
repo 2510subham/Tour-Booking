@@ -9,17 +9,17 @@ const servicesData = [
     {
         imgurl: weatherImg,
         title: ' Calculate weather',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, adipisci perferendis eum, aperiam deleniti inventore modi natus magnam officia laborum nobis tenetur qui distinctio excepturi tempora enim ad reiciendis quam.'
+        desc: 'Check destination weather before you travel so you can pack smart, plan activities, and avoid last-minute surprises.'
     },
     {
         imgurl: guideImg,
         title: 'Best Tour Guide',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, adipisci perferendis eum, aperiam deleniti inventore modi natus magnam officia laborum nobis tenetur qui distinctio excepturi tempora enim ad reiciendis quam.'
+        desc: 'Travel with experienced local guides who know the best attractions, hidden spots, and practical tips for every destination.'
     },
     {
         imgurl: customizationImg,
         title: 'customization',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, adipisci perferendis eum, aperiam deleniti inventore modi natus magnam officia laborum nobis tenetur qui distinctio excepturi tempora enim ad reiciendis quam.'
+        desc: 'Customize your tour dates, group size, and activities to create a trip that fits your schedule and travel style.'
     },
 ]
 

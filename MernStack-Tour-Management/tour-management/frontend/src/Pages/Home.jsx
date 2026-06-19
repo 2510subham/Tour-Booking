@@ -26,7 +26,7 @@ const Home = () => {
               <img src={worldImg} alt="worlds" />
             </div>
             <h1>Travelling opens the doors to creating <span className="highlight">memories</span></h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, adipisci perferendis eum, aperiam deleniti inventore modi natus magnam officia laborum nobis tenetur qui distinctio excepturi tempora enim ad reiciendis quam.</p>
+            <p>Discover handpicked tours, trusted guides, and memorable experiences designed to make every journey simple, safe, and unforgettable.</p>
           </div>
         </Col>
 
@@ -83,9 +83,9 @@ const Home = () => {
             <h2>
               With our all experience <br/> we will serve you the best
             </h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quaerat!
+            <p>From weekend escapes to once-in-a-lifetime adventures, we help travelers plan with confidence.
               <br />
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam, quisquam.
+              Our team focuses on reliable support, comfortable itineraries, and experiences worth remembering.
             </p>
           </div>
           <div className="counter__wrapper d-flex align-items-center gap-5">

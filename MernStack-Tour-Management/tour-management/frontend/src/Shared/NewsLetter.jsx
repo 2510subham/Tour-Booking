@@ -53,7 +53,6 @@ const NewsLetter = () => {
                                     <Button className="btn newsletter__btn" id="focusing" onClick={handlesubmit}>Subscribe</Button>
                                 </div>
                             </Form>
-                            {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, alias!</p> */}
                         </div>
                     </Col>
                     <Col lg='6'>

@@ -18,7 +18,7 @@ const tours = [
     desc: "this is the description",
     reviews: [
       {
-        name: "jhon doe",
+        name: "Subham Agarwal",
         rating: 4.6,
       },
     ],
@@ -37,7 +37,7 @@ const tours = [
     desc: "this is the description",
     reviews: [
       {
-        name: "jhon doe",
+        name: "Priya Sharma",
         rating: 4.6,
       },
     ],
@@ -56,7 +56,7 @@ const tours = [
     desc: "this is the description",
     reviews: [
       {
-        name: "jhon doe",
+        name: "Rahul Mehta",
         rating: 4.6,
       },
     ],
@@ -75,11 +75,11 @@ const tours = [
     desc: "this is the description",
     reviews: [
       {
-        name: "jhon doe",
+        name: "Ananya Verma",
         rating: 4.6,
       },
       {
-        name: "jhon doe",
+        name: "Karan Malhotra",
         rating: 4,
       },
     ],
@@ -98,15 +98,15 @@ const tours = [
     desc: "this is the description",
     reviews: [
       {
-        name: "jhon doe",
+        name: "Neha Kapoor",
         rating: 4.6,
       },
       {
-        name: "jhon doe",
+        name: "Arjun Nair",
         rating: 5,
       },
       {
-        name: "jhon doe",
+        name: "Meera Iyer",
         rating: 4,
       },
     ],
@@ -125,7 +125,7 @@ const tours = [
     desc: "this is the description",
     reviews: [
       {
-        name: "jhon doe",
+        name: "Rohan Das",
         rating: 4.6,
       },
     ],

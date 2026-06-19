@@ -16,9 +16,9 @@ const About = () => {
             <h2>
               With our all experience <br/> we will serve you the best
             </h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quaerat!
+            <p>We connect travelers with carefully selected destinations, trusted guides, and flexible tour options.
               <br />
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam, quisquam.
+              Every trip is planned to keep your journey smooth, enjoyable, and full of meaningful moments.
             </p>
           </div>
           <div className="counter__wrapper d-flex align-items-center gap-5">

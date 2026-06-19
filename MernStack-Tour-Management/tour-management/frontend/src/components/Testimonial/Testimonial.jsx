@@ -41,7 +41,7 @@ const settings={
     <Slider {...settings}>
         <div className="testimonial py-4 px-3">
             <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi tenetur consequuntur autem rerum repellendus corrupti Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error, nesciunt?
+                The booking process was simple, and the tour guide made the whole trip feel easy and well organized.
             </p>
             <div className='d-flex align-items-center gap-4 mt-3'>
                 <img src={ava01} alt="img" className='w-25 h-25 rounded-2' />
@@ -53,48 +53,48 @@ const settings={
         </div>
         <div className="testimonial py-4 px-3">
             <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi tenetur consequuntur autem rerum repellendus corrupti accusamus sequi! Nihil non voluptates corrupti, ad quaerat nesciunt pariatur dolor  
+                We found a great package within our budget, and every detail from pickup to sightseeing was handled on time.
             </p>
             <div className='d-flex align-items-center gap-4 mt-3'>
                 <img src={ava02} alt="img" className='w-25 h-25 rounded-2' />
                 <div>
-                    <h6 className="mb-0 mt-3">abc xyz</h6>
+                    <h6 className="mb-0 mt-3">Priya Sharma</h6>
                     <p>Customer</p>
                 </div>
             </div>
         </div>
         <div className="testimonial py-4 px-3">
             <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi tenetur consequuntur autem rerum repellendus corrupti accusamus sequi! Nihil non voluptates corrupti, ad quaerat nesciunt pariatur dolor  
+                The itinerary was flexible and comfortable. It gave us enough time to explore without feeling rushed.
             </p>
             <div className='d-flex align-items-center gap-4 mt-3'>
                 <img src={ava03} alt="img" className='w-25 h-25 rounded-2' />
                 <div>
-                    <h6 className="mb-0 mt-3">absdtg fetgv</h6>
+                    <h6 className="mb-0 mt-3">Rahul Mehta</h6>
                     <p>Customer</p>
                 </div>
             </div>
         </div>
         <div className="testimonial py-4 px-3">
             <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi tenetur consequuntur autem rerum repellendus corrupti accusamus sequi! Nihil non voluptates corrupti, ad quaerat nesciunt pariatur dolor  
+                Customer support responded quickly whenever we had questions, which made planning our family trip much easier.
             </p>
             <div className='d-flex align-items-center gap-4 mt-3'>
                 <img src={ava02} alt="img" className='w-25 h-25 rounded-2' />
                 <div>
-                    <h6 className="mb-0 mt-3">abc xyz</h6>
+                    <h6 className="mb-0 mt-3">Ananya Verma</h6>
                     <p>Customer</p>
                 </div>
             </div>
         </div>
         <div className="testimonial py-4 px-3">
             <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi tenetur consequuntur autem rerum repellendus corrupti accusamus sequi! Nihil non voluptates corrupti, ad quaerat nesciunt pariatur dolor  
+                The recommendations were thoughtful, the guide was friendly, and the overall experience was worth recommending.
             </p>
             <div className='d-flex align-items-center gap-4 mt-3'>
                 <img src={ava02} alt="img" className='w-25 h-25 rounded-2' />
                 <div>
-                    <h6 className="mb-0 mt-3">abc xyz</h6>
+                    <h6 className="mb-0 mt-3">Karan Malhotra</h6>
                     <p>Customer</p>
                 </div>
             </div>
