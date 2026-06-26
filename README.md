@@ -1,6 +1,5 @@
 # Tour-fullStack
-this is the tour management site where you can book your tour and this site is fully authenticated and getting data from backend
-
-Tech stack used=Express js, Node js,React js,Mongo db
-
-deployed link => https://nimble-taiyaki-c79aa7.netlify.app/
+Engineered a full-stack platform using React.js for the responsive UI alongside Node.js, Express.js, and MongoDB for high-performance data handling.
+Designed a seamless booking flow allowing end-users to effortlessly browse, schedule, and self-manage tour itineraries.
+Integrated automated email dispatch systems for instant booking confirmations and dynamic promotional outreach.
+Deployed link => https://nimble-taiyaki-c79aa7.netlify.app/
